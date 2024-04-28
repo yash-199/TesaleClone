@@ -23,7 +23,7 @@ index.css: Styles for the app
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/tesla-clone.git
+git clone https://github.com/yash-199/tesla-clone.git
 cd tesla-clone
 # Install dependencies:
 bash
